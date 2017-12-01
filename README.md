@@ -1,6 +1,8 @@
 BrodettoCoin integration/staging tree
 ================================
 
+![alt BrodettoCoin](https://github.com/vincenzodesanctis/BrodettoCoin/blob/master/brodettocoin_mini.jpg)
+
 http://www.brodettocoin.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
